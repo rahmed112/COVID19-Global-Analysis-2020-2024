@@ -19,6 +19,8 @@ Matplotlib: For static data visualizations
 
 Numpy: For numerical operations
 
+Seaborn: For statistical data visualization.
+
 Benefits to the Industry:
 
 Healthcare: Insights from this analysis can help healthcare providers and policymakers better prepare for future pandemics by understanding patterns of virus spread and resource allocation.
